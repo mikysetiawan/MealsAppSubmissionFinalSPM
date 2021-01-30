@@ -2,30 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "Alamofire",
-        "repositoryURL": "https://github.com/Alamofire/Alamofire",
-        "state": {
-          "branch": null,
-          "revision": "eaf6e622dd41b07b251d8f01752eab31bc811493",
-          "version": "5.4.1"
-        }
-      },
-      {
         "package": "CoreModuleMealApps",
         "repositoryURL": "https://github.com/mikysetiawan/CoreModuleMealApps.git",
         "state": {
           "branch": null,
           "revision": "f96ad462993fdcfdfe720849033127643b4bb8cf",
           "version": "1.0.1"
-        }
-      },
-      {
-        "package": "Realm",
-        "repositoryURL": "https://github.com/realm/realm-cocoa",
-        "state": {
-          "branch": null,
-          "revision": "11ac74e1cc1faec1cad0e6a9a41652ef1432d4c1",
-          "version": "5.5.0"
         }
       },
       {
