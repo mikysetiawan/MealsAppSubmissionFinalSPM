@@ -3,3 +3,5 @@ osx_image: xcode12
 xcode_project: TheMealsApp/TheMealsApp.xcodeproj
 xcode_scheme: TheMealsApp
 xcode_destination: platform=iOS Simulator,OS=14.0,name=iPhone 11 Pro
+install:
+  - sudo bundle install
